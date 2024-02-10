@@ -8,18 +8,18 @@ Kastel is a console-based game developed in C++ designed to provide an engaging 
 ## Features
 
 - Support for 2, 3, 4, 5 and 6-player games.
-- Various game modes including Normar and Hard versions.
+- Various game modes including Normal and Hard versions.
 - Command-line interface for game interaction.
 - Leaderboard functionality to track high scores.
 
 ## Requirements
 
-- C++ Compiler (C++11 or later recommended)
+- C++ Compiler
 - Standard C++ libraries
 
 ## Compilation and Running
 
-To compile the game, you can use any C++ compiler that supports C++11 or later. For example, if you're using g++, you can compile the game using the following command:
+To compile the game, you can use any C++ compiler. For example, if you're using g++, you can compile the game using the following command:
 
 ```
 g++ -o kastel kastel.cpp
@@ -50,7 +50,6 @@ To run the game, simply execute the compiled binary:
 
 - Color-coded console output enhances the user interface, making gameplay more intuitive and engaging.
 - A random number generator is used to ensure the dynamic and unpredictable allocation of carts.
-- Players can attempt to beat their previous scores or compete against others for a position on the leaderboard.
 
 
 ## Contributing
