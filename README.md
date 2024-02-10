@@ -55,7 +55,7 @@ To run the game, simply execute the compiled binary:
 
 ## Contributing
 
-Contributions to the Quoridor game project are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
+Contributions to the Kastel game project are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
 
