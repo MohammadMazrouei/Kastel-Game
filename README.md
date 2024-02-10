@@ -22,7 +22,7 @@ Kastel is a console-based game developed in C++ designed to provide an engaging 
 To compile the game, you can use any C++ compiler that supports C++11 or later. For example, if you're using g++, you can compile the game using the following command:
 
 ```
-g++ -std=c++11 kastel.cpp -o kastel
+g++ -o kastel kastel.cpp
 ```
 
 To run the game, simply execute the compiled binary:
